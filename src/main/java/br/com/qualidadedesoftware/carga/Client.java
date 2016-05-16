@@ -1,8 +1,8 @@
-package br.com.selfhelp.carga;
+package br.com.qualidadedesoftware.carga;
 
 import org.json.simple.JSONObject;
 
-import br.com.selfhelp.setup.SetupTest;
+import br.com.qualidadedesoftware.setup.SetupTest;
 
 public class Client extends SetupTest {
 	

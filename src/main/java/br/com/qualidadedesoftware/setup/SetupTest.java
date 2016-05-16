@@ -1,4 +1,4 @@
-package br.com.selfhelp.setup;
+package br.com.qualidadedesoftware.setup;
 
 import org.json.simple.JSONObject;
 import org.junit.Before;

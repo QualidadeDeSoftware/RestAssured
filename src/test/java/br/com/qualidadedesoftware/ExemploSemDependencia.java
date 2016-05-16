@@ -8,7 +8,7 @@ import static org.hamcrest.Matchers.hasItems;
 import org.json.simple.JSONArray;
 import org.junit.Test;
 
-import br.com.selfhelp.setup.SetupTest;
+import br.com.qualidadedesoftware.setup.SetupTest;
 
 public class ExemploSemDependencia extends SetupTest {
 	

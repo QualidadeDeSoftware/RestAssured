@@ -7,9 +7,9 @@ import org.json.simple.JSONObject;
 import org.junit.Before;
 import org.junit.Test;
 
-import br.com.selfhelp.carga.Client;
-import br.com.selfhelp.carga.Pedido;
-import br.com.selfhelp.setup.SetupTest;
+import br.com.qualidadedesoftware.carga.Client;
+import br.com.qualidadedesoftware.carga.Pedido;
+import br.com.qualidadedesoftware.setup.SetupTest;
 
 public class ExemploComDependencia extends SetupTest {
 
